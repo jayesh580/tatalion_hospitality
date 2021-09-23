@@ -323,7 +323,7 @@ hr{
   color: #fff;
 }
 .btn-common{
-  background: #e25111;
+  background: #E8B407;
   padding:12px 30px;
   letter-spacing:0.5px;
 }
@@ -332,13 +332,13 @@ hr{
 	color:#fff;	
 }
 .btn-common-white{
-  background: #e25111;
+  background: #E8B407;
   padding:12px 30px;
   letter-spacing:0.5px;
 }
 .btn-common-white:hover, .btn-common-white:focus{
 	background: #fff;
-	color:#e25111;	
+	color:#000;	
 }
 .btn-white {
 	background: #fff;
